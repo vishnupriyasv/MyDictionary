@@ -20,6 +20,15 @@ const images = [
   './pictures/Image14.jpeg',
   './pictures/Image15.jpeg',
   './pictures/Image16.jpeg',
+  './pictures/Image17.jpeg',
+  './pictures/Image18.jpeg',
+  './pictures/Image19.jpeg',
+  './pictures/Image20.jpeg',
+  './pictures/Image21.jpeg',
+  './pictures/Image22.jpeg',
+  './pictures/Image23.jpeg',
+  './pictures/Image24.jpeg',
+  './pictures/Image25.jpeg',
 ];
 
 let current = 0
@@ -34,7 +43,7 @@ function setRandomBackground() {
   document.body.style.backgroundPosition = 'center';
 }
 setRandomBackground();
-setInterval(setRandomBackground, 5000);
+setInterval(setRandomBackground, 4000);
 
 button.addEventListener('click', dictionaryFn)
 
