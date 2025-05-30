@@ -15,6 +15,14 @@ And the backgrounds? Yup — they're from the cartoon shows I grew up with. It�
 
 ---
 
+## 🚀 Check It Out Live!
+
+You can try **MyDictionary** right now, no setup needed — just click this link and start searching words while vibing with those nostalgic cartoon backgrounds:
+
+👉 [https://vishnupriyasv.github.io/MyDictionary/]
+
+---
+
 ## 📦 Tech Stack
 
 - HTML
